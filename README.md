@@ -28,29 +28,29 @@ reestabelecida, o aplicativo móvel realiza a sincronização automática com a 
 
 3. Módulos da Plataforma Web
 
-3.1. Monitor Geral & Mapa Interativo
+   3.1. Monitor Geral & Mapa Interativo
 Exibição em tempo real de marcadores de usuários ativos no mapa georreferenciado, status das licenças e atalhos rápidos
 de telemetria. *Requer conexão de internet no app Android para atualização em tempo real.
 
-3.2. Gestão de Rotas de Patrulha
+   3.2. Gestão de Rotas de Patrulha
 Visualização das linhas contínuas de trajetória percorridas pelos usuários em campo, agrupadas por data e horário, com
 filtros por login e setor.
 
-3.3. Central de Alertas & Mídias (Ocorrências)
+   3.3. Central de Alertas & Mídias (Ocorrências)
 Tratamento de alertas com anexos (áudio, foto, vídeo, texto). Suporta reprodução direta no player de áudio da plataforma
 web, visualização ampliada e exportação em arquivos .ZIP.
 
-3.4. Gestão por Responsabilidade
+   3.4. Gestão por Responsabilidade
 Hierarquia em árvore ('Gestão por Responsabilidade'). Ao criar novos usuários, o sistema atribui automaticamente o login do
 gestor como responsável pelo usuário que está sendo criado.
 PEMD-SP613-Seg: Vigia • Conecta • Protege • v1.0 — Todos os direitos reservados ao AladdinLab
 23/07/2026PEMD-SP613-Seg — DESCRITIVO TÉCNICO
 
-3.5. Assistente de IA com DeepSeek
+   3.5. Assistente de IA com DeepSeek
 Avaliador tático automático baseado na API do DeepSeek, identificando padrões de incidentes, níveis de vulnerabilidade e
 sugestões de alocação de equipe.
 
-3.6. Logs de Auditoria & Atividade
+  3.6. Logs de Auditoria & Atividade
 Registro detalhado de ações no sistema (sincronizações, criação de alertas e alteração de licenças), garantindo
 conformidade e rastreabilidade.
 
