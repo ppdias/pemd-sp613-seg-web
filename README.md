@@ -1,4 +1,8 @@
-![# ***PEMD-SP613-Seg***]
+<p align="center">
+    <img src="src/logoBeforeSplashScreen.png" alt="" width="300">
+</p>
+
+# ***PEMD-SP613-Seg***
 
 Ecossistema Integrado de Monitoramento Tático, Gestão de Rotas & Alertas
 
