@@ -78,4 +78,5 @@ Com integração nativa com o modelo de inteligência tática DeepSeek, preenchi
 
 # Todo o código está sendo disponibilizado para USO NÃO COMERCIAL.
 
-*Não estão disponíveis as bibliotecas com restrição derivada da LGPD (Lei. nº 13.709/2018)
+> [!NOTE]
+> >*Não estão disponíveis as bibliotecas com restrição derivada da LGPD (Lei. nº 13.709/2018)
