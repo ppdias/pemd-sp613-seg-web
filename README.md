@@ -4,13 +4,14 @@ Ecossistema Integrado de Monitoramento Tático, Gestão de Rotas & Alertas
 URL DA PLATAFORMA WEB: https://aladdinlab.com.br/apps/pemd-sp613-seg/
 
 1. Descritivo Técnico
-O PEMD-SP613-Seg é uma solução corporativa de alta disponibilidade e resiliência projetada para operações de
+
+   O PEMD-SP613-Seg é uma solução corporativa de alta disponibilidade e resiliência projetada para operações de
 segurança, rondas patrimoniais e acompanhamento de equipes em campo. Ela une a flexibilidade de um aplicativo móvel
 Android de alta precisão a uma Plataforma web intuitiva e poderosa. Este ecossistema foi desenvolvido em uma parceria
 entre o coletivo de desenvolvedores Aladdin Lab e o Instituto Brasflora para fortalecer os serviços de gestão,
 monitoramento e vigilância no Parque Estadual do Morro do Diabo.
 
-DIFERENCIAL CHAVE (Resiliência Total e Offline-First):
+   DIFERENCIAL CHAVE (Resiliência Total e Offline-First):
 Ao contrário dos sistemas tradicionais que interrompem o serviço ao perder a conexão, o PEMD-SP613-Seg foi
 construído sob o conceito Offline-First com banco de dados local sincronizado em tempo real com a nuvem. O usuário
 em campo grava rotas, áudios, fotos, vídeos e relatórios mesmo em áreas sem acesso à internet. Assim que a conexão é
