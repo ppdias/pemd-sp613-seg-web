@@ -1,4 +1,4 @@
-# ***PEMD-SP613-Seg***
+![# ***PEMD-SP613-Seg***]
 
 Ecossistema Integrado de Monitoramento Tático, Gestão de Rotas & Alertas
 
@@ -55,7 +55,7 @@ Avaliador tático automático baseado na API do DeepSeek, identificando padrões
 Registro detalhado de ações no sistema (sincronizações, criação de alertas e alteração de licenças), garantindo conformidade e rastreabilidade.
 
 ## 4. Interação com o App Android em Campo
-O aplicativo Android foi desenvolvido com foco em alta eficiência energética e operação contínua em campo:
+O [aplicativo Android](aladdinlab.com.br/apps/PEMD-SP613-Seg-v60.apk) foi desenvolvido com foco em alta eficiência energética e operação contínua em campo:
 
 • Tracking via Foreground Service: Coleta coordenadas GPS em segundo plano com notificação persistente do sistema.
 
@@ -69,9 +69,9 @@ O aplicativo Android foi desenvolvido com foco em alta eficiência energética e
 
 • Atualização de Licença de Uso: Se o gestor altera a licença na Plataforma web (ex: 'Bloqueada'), o app Android restringe o uso no próximo ping de verificação.
 
-#### A Plataforma web PEMD-SP613-Seg está publicada e pronta para uso corporativo.
+## A Plataforma web PEMD-SP613-Seg está publicada e pronta para uso corporativo.
 Com integração nativa com o modelo de inteligência tática DeepSeek, preenchimento automático do gestor responsável e suporte completo a mídias e geolocalização offline, a solução atende aos mais elevados padrões de eficiência, controle operacional e auditorias críticas.
 
-Todo o código está sendo disponibilizado para USO NÃO COMERCIAL.
+# Todo o código está sendo disponibilizado para USO NÃO COMERCIAL.
 
 *Não estão disponíveis as bibliotecas com restrição derivada da LGPD (Lei. nº 13.709/2018)
